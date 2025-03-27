@@ -1,5 +1,5 @@
 # Phishing Detector
-====================
+
 ## Table of Contents
 -----------------
 
