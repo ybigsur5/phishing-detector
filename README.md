@@ -159,3 +159,8 @@ dist/
 # Ignore virtual environment
 venv/
 ```
+## Result
+
+
+![Screenshot at 2025-03-27 06-58-43](https://github.com/user-attachments/assets/608a5368-f8ba-47d3-926b-2d94285f7544)
+![Screenshot at 2025-03-27 06-58-24](https://github.com/user-attachments/assets/5c32b1f3-d83c-43a5-87e2-373283e88756)
